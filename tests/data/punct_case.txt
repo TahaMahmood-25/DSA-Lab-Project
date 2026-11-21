@@ -1,0 +1,1 @@
+DATA STRUCTURES, are ways of organizing information... so that a computer can use it EFFICIENTLY!!! An array stores items in a row and gives fast access by index.

@@ -1,0 +1,2 @@
+The quick brown fox jumps over the lazy dog. It's a sunny day, and the fox is happy!
+Second LINE: with   extra   spaces.
